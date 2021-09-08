@@ -1,3 +1,7 @@
 h1:hover {
   color: red;
 }
+
+p:active {
+  color: blue;
+}
