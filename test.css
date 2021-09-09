@@ -5,4 +5,7 @@ h1:hover {
 a {
   color: red;
   background: yellow;
+  border: 1px solid yellow;
+  border-radius: 3px;
+  
 }
