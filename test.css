@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-  background: white;
+  background: red;
   color: yellow;
 }
 
