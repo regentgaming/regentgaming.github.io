@@ -15,8 +15,8 @@ a {
 }
 
 a:hover {
-  background: red;
-  color: yellow;
+  color: OrangeRed;
+  background: DarkGoldenRod;
 }
 
 * {
