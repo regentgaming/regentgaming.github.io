@@ -5,3 +5,7 @@
 a.topbar {
   text-decoration: none;
 }
+
+a.topbar:hover {
+  text-decoration: underline;
+}
