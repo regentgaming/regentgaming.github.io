@@ -4,6 +4,7 @@
 
 a.topbar {
   text-decoration: none;
+  color: hsl(0, 100%, 0%);
 }
 
 a.topbar:hover {
