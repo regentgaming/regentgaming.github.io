@@ -2,6 +2,12 @@
   font-family: "Roboto";
 }
 
+#topbar {
+  backgroud-color: hsl(0, 100%, 100%);
+  overflow: hidden;
+}
+
+
 a.topbar {
   text-decoration: none;
   color: hsl(0, 100%, 0%);
@@ -14,9 +20,4 @@ a.topbar:hover {
   padding: 5px, 0px;
   border: 10px hidden;
   
-}
-
-#topbar {
-  backgroud-color: hsl(0, 100%, 100%);
-  overflow: hidden;
 }
