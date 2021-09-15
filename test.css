@@ -13,7 +13,7 @@ a.topbar {
   text-decoration: none;
   color: hsl(0, 100%, 0%);
   padding: 5px, 0px;
-  border: 10px solid;
+  border: 1px solid;
   margin: 10px, 5px;
   background-color: hsl(0, 100%, 100%);
 }
