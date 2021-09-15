@@ -14,6 +14,7 @@ a.topbar {
   padding: 5px, 0px;
   border: 10px hidden;
   margin: 10px, 5px;
+  background-color: hsl(0, 100%, 100%);
 }
 
 a.topbar:hover {
