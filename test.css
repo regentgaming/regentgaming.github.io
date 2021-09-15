@@ -9,4 +9,14 @@ a.topbar {
 
 a.topbar:hover {
   text-decoration: underline;
+  background-color: hsl(0, 100%, 0);
+  color: hsl(0, 100%, 100%);
+  padding: 5px, 0px;
+  border: 10px hidden;
+  
+}
+
+#topbar {
+  backgroud-color: hsl(0, 100%, 100%);
+  overflow: hidden;
 }
