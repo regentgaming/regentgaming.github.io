@@ -2,7 +2,7 @@
   font-family: "Roboto";
 }
 
-/* Add a black background color to the top navigation */
+/* Add a grey background color to the top navigation */
 .topnav {
   background-color: hsl(0, 0%, 90%);
   overflow: hidden;
@@ -29,4 +29,13 @@
 .topnav a.active {
   color: hsl(0, 0%, 90%);
   background-color: hsl(216, 100%, 70%);
+}
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
 }
