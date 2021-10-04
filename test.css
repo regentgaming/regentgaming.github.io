@@ -31,7 +31,7 @@
   background-color: hsl(216, 100%, 70%);
 }
 
-.topnav input[type=text] {
+.topnav input[type=search] {
   float: right;
   padding: 6px;
   border: none;
