@@ -39,3 +39,22 @@
   margin-right: 16px;
   font-size: 17px;
 }
+
+
+.links a {
+  float: left;
+  background-color: hsl(0, 0%, 90%);
+  color: hsl(0, 0%, 15%);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.links a:hover {
+  background-color: hsl(0, 0%, 15%);
+  color: hsl(0, 0%, 90%);
+}
+
+  
