@@ -30,3 +30,9 @@
   color: hsl(0, 0%, 90%);
   background-color: hsl(216, 100%, 70%);
 }
+
+.alphabeticalsort {
+  float: left;
+  text-decoration: none;
+  background-color: hsl(216, 100%, 70%);
+}
