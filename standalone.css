@@ -34,5 +34,15 @@
 .alphabeticalsort {
   float: left;
   text-decoration: none;
-  background-color: hsl(216, 100%, 70%);
+  padding-top: 125px;
+  margin-right: 25px;
+}
+
+.alphabeticalsort a {
+  text-decoration: none;
+  color: hsl(0, 0%, 0%);
+}
+.alphabeticalsort a:hover{
+  text-decoration: underline;
+  color: hsl(216, 100%, 70%);
 }
